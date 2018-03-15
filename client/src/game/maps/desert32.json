@@ -1,0 +1,12 @@
+{ "columns":12,
+ "image":"desert.png",
+ "imageheight":768,
+ "imagewidth":416,
+ "margin":0,
+ "name":"desert32",
+ "spacing":0,
+ "tilecount":276,
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset"
+}

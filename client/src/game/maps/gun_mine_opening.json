@@ -1,0 +1,12 @@
+{ "columns":8,
+ "image":"gun_mine_opening.png",
+ "imageheight":128,
+ "imagewidth":1024,
+ "margin":0,
+ "name":"gun_mine_opening",
+ "spacing":0,
+ "tilecount":8,
+ "tileheight":128,
+ "tilewidth":128,
+ "type":"tileset"
+}

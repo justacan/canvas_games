@@ -1,0 +1,12 @@
+{ "columns":4,
+ "image":"exp2_0.png",
+ "imageheight":256,
+ "imagewidth":256,
+ "margin":0,
+ "name":"explosion",
+ "spacing":0,
+ "tilecount":16,
+ "tileheight":64,
+ "tilewidth":64,
+ "type":"tileset"
+}

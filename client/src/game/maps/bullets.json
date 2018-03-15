@@ -1,0 +1,12 @@
+{ "columns":88,
+ "image":"M484BulletCollection2.png",
+ "imageheight":760,
+ "imagewidth":1420,
+ "margin":0,
+ "name":"bullets",
+ "spacing":0,
+ "tilecount":4136,
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset"
+}
